@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I’m Sreenivasa 👋</h1>
+<h1 align="center">Hi, I’m Sreenivasa Raju Konduru 👋</h1>
 
 <p align="center">
   I build <b>secure</b>, <b>accessible</b>, and <b>scalable</b> systems.<br/>
