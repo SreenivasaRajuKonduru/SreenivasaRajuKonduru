@@ -1,135 +1,89 @@
-<!-- Banner (replace BANNER_URL after you upload an image into this repo) -->
+<!-- Banner (upload your own banner image to repo and replace BANNER_URL) -->
 <p align="center">
-  <img src="BANNER_URL" alt="Sreenivasa — Backend & Full-Stack Engineer" style="max-width:100%; border-radius:14px;" />
+  <img src="BANNER_URL" alt="Sreenivasa — Banner" style="max-width:100%; border-radius:14px;" />
 </p>
-
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />, I'm Sreenivasa Raju Konduru
-</h1>
 
 <!-- Typing headline -->
 <div align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?color=%2358A6FF&size=28&center=true&vCenter=true&width=750&height=45&duration=2600&pause=700&lines=Backend+Engineer;Full-Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Secure+%2F+Accessible+%2F+Scalable;Open+to+Full-Time+SDE+Roles"
-    alt="Typing headline"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sreenivasa+Raju+Konduru;Backend+%26+Full-Stack+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Secure+%2F+Accessible+%2F+Scalable+Apps;Open+to+Full-Time+SDE+Roles" alt="Typing SVG" />
 </div>
 
-<!-- About -->
-<img align="left" src="https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width="50" height="50" alt="About icon"/>
+---
 
-<h2 align="left">About me</h2>
-
-I’m a Backend & Full-Stack developer who loves building **secure, accessible, and scalable** systems.
-
-- 🎓 MS in Computer Science @ **University of Florida** *(May 2025)*
-- 💼 ex-**TCS (BFSI)** with **2.5 years** of backend experience
-- 📍 United States • **Open to relocation**
-- 🔭 Seeking **Full-Time SDE roles** (Backend / Full-Stack)
-
-<br clear="left"/>
+## 👨‍💻 Quick Bio
+- 🎓 **MS in Computer Science** @ University of Florida *(May 2025)*  
+- 💼 ex-**Assistant Systems Engineer** @ TCS (BFSI) – 2.5 yrs backend experience  
+- 🌍 Based in the US • **Open to relocation**  
+- ⚡ Love solving problems & designing **secure, scalable systems**  
+- 😄 Fun fact: my cooking experiments end up *either gourmet or a plot twist*  
 
 ---
 
-### 📫 How to reach me
-- Email: **kondurusreenivasaraju1@gmail.com**
-- LinkedIn: **https://www.linkedin.com/in/sreenivasa-raju-konduru-b27a51169/**
-- Portfolio: **https://sreenivasarajukonduru.github.io/Portfolio/**
-
----
-
-### 🔗 Connect with me
-<p align="left">
-  <a href="mailto:kondurusreenivasaraju1@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40">
-  </a>&nbsp;
-  <a href="https://www.linkedin.com/in/sreenivasa-raju-konduru-b27a51169/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40">
-  </a>&nbsp;
-  <a href="https://sreenivasarajukonduru.github.io/Portfolio/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="portfolio" height="30" width="40">
-  </a>
-</p>
-
----
-
-### 🧰 Languages & Tools
-<p align="left">
+## 🛠️ Tech Stack
+<p align="center">
   <!-- Core -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white">
   <!-- Data -->
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <!-- Cloud & DevOps -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://docs.github.com/actions" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/github-actions.svg" alt="github actions" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
   <!-- Testing -->
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" alt="junit5" height="40"/>
-  </a>
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="vscode" width="40" height="40"/>
-  </a>
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white">
 </p>
 
 ---
 
-### 🚀 Project Highlights (quick jump)
-- **SkillArcade** – Quiz platform (Go, Angular, MongoDB Atlas)  
-  `https://github.com/SreenivasaRajuKonduru/SkillArcade`
-- **Journey Builder** – Interactive React form-based app  
-  `https://github.com/SreenivasaRajuKonduru/Journey-Builder`
-- **Semantic Segmentation (Cityscapes)** – R2U-Net DL project  
-  `https://github.com/SreenivasaRajuKonduru/Semantic-Segmentation-of-City-Images-main`
-- **Portfolio** – GitHub Pages site  
-  `https://github.com/SreenivasaRajuKonduru/Portfolio`
+## 🚀 Featured Projects
+<p align="center">
+  <a href="https://github.com/SreenivasaRajuKonduru/SkillArcade">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=SkillArcade&theme=github_dark&show_owner=true" />
+  </a>
+  <a href="https://github.com/SreenivasaRajuKonduru/Journey-Builder">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=Journey-Builder&theme=github_dark&show_owner=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SreenivasaRajuKonduru/Semantic-Segmentation-of-City-Images-main">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=Semantic-Segmentation-of-City-Images-main&theme=github_dark&show_owner=true" />
+  </a>
+  <a href="https://github.com/SreenivasaRajuKonduru/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=Portfolio&theme=github_dark&show_owner=true" />
+  </a>
+</p>
 
 ---
 
 <details>
-  <summary><b>🧪 Snapshot: UF TAPS work</b></summary>
-
-- Designed accessible permit workflows (issuance, edits, cancellations, transit changes)  
-- Modernized UI with **HTML5, CSS3, jQuery, Bootstrap**, aligned to UF brand & a11y  
-- Integrated with T2 Flex; reduced support tickets via cleaner flows  
+  <summary><b>🧪 UF TAPS Snapshot</b></summary>
+  
+- Designed **permit workflows** (issuance, edits, cancellations, transit changes)  
+- Modernized frontends with **HTML5, CSS3, jQuery, Bootstrap**  
+- Integrated with **T2 Flex**, reducing support tickets significantly  
 </details>
+
+---
+
+## 📫 Let’s Connect
+<p align="center">
+  <a href="mailto:kondurusreenivasaraju1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kondurusreenivasaraju1%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/sreenivasa-raju-konduru-b27a51169/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sreenivasa%20Raju-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://sreenivasarajukonduru.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+</p>
 
 <p align="center"><i>“Code. Debug. Design. Repeat.”</i></p>
