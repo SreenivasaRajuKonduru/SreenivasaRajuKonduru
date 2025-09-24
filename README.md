@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I’m Sreenivasa 👋</h1>
+<h1 align="center">Hi, I’m Sreenivasa Raju Konduru👋</h1>
 
 <p align="center">
   I build <b>secure</b>, <b>accessible</b>, and <b>scalable</b> systems.<br/>
@@ -29,7 +29,7 @@
 
 ### ✨ Highlights
 - ✅ **UF TAPS**: Designed accessible permit workflows (issuance, edits, cancellations, transit changes) integrated with T2 Flex.
-- ✅ **Scalability & DX**: Spring Boot microservices, clean APIs, CI bits, pragmatic monitoring.
+- ✅ **Scalability & DX**: Spring Boot microservices, clean APIs, CI/CD, pragmatic monitoring.
 - ✅ **UI polish**: Modern, a11y-compliant frontends in React/jQuery, aligned to brand systems.
 - 😄 **Fun**: Kitchen experiments—outcomes range from *gourmet* to *plot twist*.
 
@@ -77,6 +77,28 @@
 
 ---
 
+### 🧰 Toolbox (practical stuff I use)
+<p align="center">
+  <!-- Source control -->
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <!-- CI/CD & DevOps -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white">
+  <img src="https://img.shields.io/badge/CI%2FCD-Pragmatic-6E7781">
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?logo=docker&logoColor=white">
+  <!-- Testing & Quality -->
+  <img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest&logoColor=white">
+  <img src="https://img.shields.io/badge/Selenium%20WebDriver-43B02A?logo=selenium&logoColor=white">
+  <!-- Observability -->
+  <img src="https://img.shields.io/badge/Logging%20%26%20Metrics-Practical-3FB950">
+  <!-- Collab -->
+  <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white">
+</p>
+
+---
+
 ### 🚀 Project Spotlights
 <p align="center">
   <a href="https://github.com/SreenivasaRajuKonduru/SkillArcade">
@@ -97,18 +119,10 @@
 
 ---
 
-### 📈 Activity & Stats
+### 📈 GitHub Stats
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SreenivasaRajuKonduru&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=SreenivasaRajuKonduru&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SreenivasaRajuKonduru&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&area=true&hide_border=true" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SreenivasaRajuKonduru&bg_color=ffffff&color=0a66c2&line=2ea043&point=24292f&area=true&hide_border=true" />
-    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SreenivasaRajuKonduru&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&area=true&hide_border=true" />
-  </picture>
 </p>
 
 ---
