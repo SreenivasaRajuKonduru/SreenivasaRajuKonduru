@@ -7,7 +7,7 @@
   </picture>
 </p>
 
-<h1 align="center">Hi, I’m Sreenivasa Raju Konduru👋</h1>
+<h1 align="center">Hi, I’m Sreenivasa 👋</h1>
 
 <p align="center">
   I build <b>secure</b>, <b>accessible</b>, and <b>scalable</b> systems.<br/>
@@ -115,14 +115,6 @@
   <a href="https://github.com/SreenivasaRajuKonduru/Portfolio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=Portfolio&theme=github_dark&show_owner=true" />
   </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SreenivasaRajuKonduru&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=SreenivasaRajuKonduru&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---
