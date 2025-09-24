@@ -15,6 +15,10 @@
 </p>
 
 <p align="center">
+  <b>📍 United States • Open to relocation</b>
+</p>
+
+<p align="center">
   <a href="mailto:kondurusreenivasaraju1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kondurusreenivasaraju1%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/sreenivasa-raju-konduru-b27a51169/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sreenivasa%20Raju-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://sreenivasarajukonduru.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"></a>
@@ -25,7 +29,7 @@
 
 ### ✨ Highlights
 - ✅ **UF TAPS**: Designed accessible permit workflows (issuance, edits, cancellations, transit changes) integrated with T2 Flex.
-- ✅ **Scalability & DX**: Spring Boot microservices, clean APIs, CI bits, and pragmatic monitoring.
+- ✅ **Scalability & DX**: Spring Boot microservices, clean APIs, CI bits, pragmatic monitoring.
 - ✅ **UI polish**: Modern, a11y-compliant frontends in React/jQuery, aligned to brand systems.
 - 😄 **Fun**: Kitchen experiments—outcomes range from *gourmet* to *plot twist*.
 
@@ -44,6 +48,15 @@
 <td>Open to full-time SDE (Backend/Full-Stack) roles—US relocation ready.</td>
 </tr>
 </table>
+
+---
+
+### 🏅 Selected Certifications
+<p align="center">
+  <img src="https://img.shields.io/badge/Salesforce%20Platform%20Developer%20I-00A1E0?logo=salesforce&logoColor=white">
+  <img src="https://img.shields.io/badge/Copado%20Fundamentals%20I-2E86C1?logo=salesforce&logoColor=white">
+  <img src="https://img.shields.io/badge/Learning%3A%20Copado%20Metadata%20Pipeline-6C3483?logo=salesforce&logoColor=white">
+</p>
 
 ---
 
@@ -77,8 +90,8 @@
   <a href="https://github.com/SreenivasaRajuKonduru/Semantic-Segmentation-of-City-Images-main">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=Semantic-Segmentation-of-City-Images-main&theme=github_dark&show_owner=true" />
   </a>
-  <a href="https://github.com/SreenivasaRajuKonduru/Crime-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=Crime-Analysis&theme=github_dark&show_owner=true" />
+  <a href="https://github.com/SreenivasaRajuKonduru/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=Portfolio&theme=github_dark&show_owner=true" />
   </a>
 </p>
 
