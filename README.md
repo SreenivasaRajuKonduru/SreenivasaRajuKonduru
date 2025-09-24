@@ -1,7 +1,4 @@
-<!-- Banner (upload your own banner image to repo and replace BANNER_URL) -->
-<p align="center">
-  <img src="BANNER_URL" alt="Sreenivasa — Banner" style="max-width:100%; border-radius:14px;" />
-</p>
+
 
 <!-- Typing headline -->
 <div align="center">
