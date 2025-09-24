@@ -1,33 +1,53 @@
-<!-- Typing banner -->
+<!-- Animated hero banner (auto light/dark) -->
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Sreenivasa+Raju+Konduru+%F0%9F%91%8B;Backend+%26+Full-Stack+Engineer;MS+CS+%40+University+of+Florida;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;I+build+secure%2C+accessible%2C+scalable+systems"
-    alt="Typing SVG"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=Sreenivasa+Raju+Konduru;Backend+%26+Full-Stack+Engineer;MS+CS+%40+University+of+Florida;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Secure+%2F+Accessible+%2F+Scalable" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=700&color=0A66C2&center=true&vCenter=true&width=950&lines=Sreenivasa+Raju+Konduru;Backend+%26+Full-Stack+Engineer;MS+CS+%40+University+of+Florida;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Secure+%2F+Accessible+%2F+Scalable" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2600&pause=700&color=58A6FF&center=true&vCenter=true&width=950&lines=Sreenivasa+Raju+Konduru;Backend+%26+Full-Stack+Engineer;MS+CS+%40+University+of+Florida;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Secure+%2F+Accessible+%2F+Scalable" alt="Typing banner" />
+  </picture>
 </p>
 
-# 👋 Hi, I'm Sreenivasa Raju Konduru
+<h1 align="center">Hi, I’m Sreenivasa 👋</h1>
+
+<p align="center">
+  I build <b>secure</b>, <b>accessible</b>, and <b>scalable</b> systems.<br/>
+  MS in Computer Science @ <b>University of Florida (May 2025)</b> • ex-TCS (BFSI) • Open to <b>Full-Time SDE</b> roles (Backend / Full-Stack).
+</p>
+
+<p align="center">
+  <a href="mailto:kondurusreenivasaraju1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kondurusreenivasaraju1%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sreenivasa-raju-konduru-b27a51169/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sreenivasa%20Raju-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://sreenivasarajukonduru.github.io/Portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"></a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=SreenivasaRajuKonduru&style=for-the-badge&color=5865F2">
+</p>
 
 ---
 
-- 🎓 MS in Computer Science @ **University of Florida** *(May 2025)*
-- 💼 Ex-Assistant Systems Engineer @ **TCS (BFSI)** with **2.5 years** of backend experience
-- 🌍 Building **secure, scalable systems** and **accessible web apps**
-- ⚡ Currently seeking **Full-Time SDE Roles** *(Java, AWS, React, Backend/Full-Stack)*
-
-<h2 align="center">MS CS @ University of Florida</h2>
-
----
-
-## 🧭 About Me
-- 💡 Passionate about **backend engineering**, **cloud systems**, and **UI/UX accessibility**
-- 🏗️ Designed and shipped modern **permit workflows** @ UF TAPS (parking systems)
-- 🚀 Projects I’m proud of: **SkillArcade**, **Journey Builder**, **Semantic Segmentation**
-- 🍳 Fun: My friends never know if it’s **gourmet** or **a funny disaster** when I cook 😄
+### ✨ Highlights
+- ✅ **UF TAPS**: Designed accessible permit workflows (issuance, edits, cancellations, transit changes) integrated with T2 Flex.
+- ✅ **Scalability & DX**: Spring Boot microservices, clean APIs, CI bits, and pragmatic monitoring.
+- ✅ **UI polish**: Modern, a11y-compliant frontends in React/jQuery, aligned to brand systems.
+- 😄 **Fun**: Kitchen experiments—outcomes range from *gourmet* to *plot twist*.
 
 ---
 
-## ⚙️ Tech Stack
+### 🧭 Now / 🔭 Next / 🙋 Ask
+<table>
+<tr>
+<td><b>Now</b></td>
+<td><b>Next</b></td>
+<td><b>Ask</b></td>
+</tr>
+<tr>
+<td>Refining backend patterns (Java, Spring Boot, SQL) and a11y web flows.</td>
+<td>Deeper AWS infra: IaC, observability, and cost-savvy designs.</td>
+<td>Open to full-time SDE (Backend/Full-Stack) roles—US relocation ready.</td>
+</tr>
+</table>
+
+---
+
+### ⚙️ Tech Map
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white">
@@ -44,7 +64,7 @@
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Project Spotlights
 <p align="center">
   <a href="https://github.com/SreenivasaRajuKonduru/SkillArcade">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SreenivasaRajuKonduru&repo=SkillArcade&theme=github_dark&show_owner=true" />
@@ -64,40 +84,28 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 📈 Activity & Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SreenivasaRajuKonduru&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com?user=SreenivasaRajuKonduru&theme=github-dark-blue&hide_border=true" />
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreenivasaRajuKonduru&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SreenivasaRajuKonduru&show_icons=true&theme=github_dark&rank_icon=github&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=SreenivasaRajuKonduru&theme=github-dark-blue&hide_border=true" />
 </p>
 
----
-
-## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SreenivasaRajuKonduru&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" />
-</p>
-
----
-
-## 🌐 Connect with Me
-<p align="center">
-  <a href="mailto:sreenivasarajukonduru@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-sreenivasarajukonduru%40gmail.com-1f6feb?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/sreenivasarajukonduru"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sreenivasa%20Raju-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://sreenivasarajukonduru.github.io/Portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white"></a>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=SreenivasaRajuKonduru&style=for-the-badge&color=5865F2">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SreenivasaRajuKonduru&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&area=true&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SreenivasaRajuKonduru&bg_color=ffffff&color=0a66c2&line=2ea043&point=24292f&area=true&hide_border=true" />
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SreenivasaRajuKonduru&bg_color=0d1117&color=58a6ff&line=3fb950&point=c9d1d9&area=true&hide_border=true" />
+  </picture>
 </p>
 
 ---
 
 <details>
-  <summary><b>🧪 Recent Work @ UF TAPS (click to expand)</b></summary>
+<summary><b>🧪 Snapshot: UF TAPS Work</b></summary>
 
-- Designed accessible permit workflows (issuance, edits, cancellations, transit changes)
-- Modernized UI in **HTML5, CSS3, jQuery, Bootstrap**, aligned with UF branding & a11y
-- Integrated frontend with T2 Flex; reduced support tickets with cleaner flows
+- Accessible permit workflows (issuance, edits, cancellations, transit changes)  
+- Frontend modernization with **HTML5, CSS3, jQuery, Bootstrap** + brand/a11y compliance  
+- Integrations with T2 Flex; reduced support tickets via cleaner flows  
 </details>
 
 <p align="center">
