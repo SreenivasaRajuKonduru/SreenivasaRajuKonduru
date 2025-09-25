@@ -1,5 +1,4 @@
-
-<!-- Typing headline -->
+<!-- Typing headline (interactive) -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1200&color=58A6FF&center=true&vCenter=true&width=820&height=45&duration=2600&lines=Hi%2C+I'm+Sreenivasa+Raju+Konduru;Backend+%26+Full-Stack+Engineer;Java+%7C+Spring+Boot+%7C+React+%7C+AWS;Secure+%2F+Accessible+%2F+Scalable+Apps;Open+to+Full-Time+SDE+Roles" alt="Typing headline" />
 </div>
@@ -8,9 +7,9 @@
 
 ## 👨‍💻 Quick Bio
 - 🎓 **MS in Computer Science** @ University of Florida *(May 2025)*
-- 💼 ex-**Assistant Systems Engineer** @ TCS (BFSI) — **2.5 yrs** of backend experience  
-- 🌍 United States • **Open to relocation**  
-- 🔐 I design **secure**, **accessible**, **scalable** systems that are pleasant to use  
+- 💼 ex-**Assistant Systems Engineer** @ TCS (BFSI) — **2.5 yrs** backend experience
+- 🌍 United States • **Open to relocation**
+- 🔐 I design **secure**, **accessible**, **scalable** systems users love
 - 😄 Fun: my cooking experiments end up either **gourmet** or a **plot twist**
 
 ---
@@ -54,7 +53,7 @@
     <td width="50%" valign="top">
       <h3 align="center">SkillArcade 🎮</h3>
       <p align="center">
-        A full-stack quiz platform with leaderboards, JWT auth, and robust testing.
+        Full-stack quiz platform with leaderboards, JWT auth, and end-to-end tests.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white">
@@ -71,7 +70,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Journey Builder 🛠️</h3>
       <p align="center">
-        A React-based form/journey builder with filters, mapping, and collapsible views.
+        React-based journey/form builder with filters, mapping, and collapsible views.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/React-149ECA?logo=react&logoColor=white">
@@ -107,7 +106,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Portfolio 🌐</h3>
       <p align="center">
-        Personal responsive portfolio showcasing projects and contact info.
+        Responsive personal site showcasing projects and contact info.
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
@@ -126,7 +125,6 @@
   </tr>
 </table>
 
-
 ---
 
 <details>
@@ -134,7 +132,7 @@
 
 - Designed accessible **permit workflows** (issuance, edits, cancellations, transit changes)  
 - Modernized UIs with **HTML5, CSS3, jQuery, Bootstrap**, aligned to brand & a11y  
-- Integrated with **T2 Flex**, reducing support tickets via cleaner flows  
+- Integrated with **T2 Flex**; support tickets dropped with cleaner flows  
 </details>
 
 ---
