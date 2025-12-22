@@ -36,7 +36,6 @@ Backend-focused full-stack system for task management and access control.
 - Designed REST APIs with role-based authentication
 - SQL-backed persistence with containerized deployment
 
-🔗 Repository: *(add link here)*
 
 ---
 
@@ -48,7 +47,7 @@ Backend-focused AI integration project.
 - Implemented semantic search and structured data retrieval
 - Designed request/response schemas and backend logic for AI-assisted workflows
 
-🔗 Repository: *(add link here)*
+
 
 ---
 
