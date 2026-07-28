@@ -62,9 +62,9 @@ University of Florida — Transportation & Parking Services
 
 - Build Python automation and internal operational tools
 - Develop PostgreSQL validation and reconciliation workflows
+- Automate payment-plan, permit, validator, and account workflows with Python, Selenium, and OpenPyXL
+- Replace repetitive, error-prone manual work with reliable, auditable workflows
 - Support testing, troubleshooting, deployment validation, and production operations
-- Automated payment-plan updates across **900+ records**
-- Reduced processing time from **6–7 hours to approximately 1 hour**
 
 </td>
 <td width="50%" valign="top">
@@ -164,3 +164,60 @@ flowchart LR
     Worker1 --> Prometheus
     Worker2 --> Prometheus
     Prometheus --> Grafana
+```
+
+**Stack:** `Python` · `FastAPI` · `Apache Kafka` · `PostgreSQL` · `Redis` · `pgvector` · `Docker` · `Kubernetes` · `NGINX` · `JWT / RBAC` · `OpenTelemetry` · `Jaeger` · `Prometheus` · `Grafana`
+
+---
+
+## ⚡ Distributed Reddit Backend Engine
+
+### Multithreaded C++ / PostgreSQL Backend
+
+A multithreaded backend modeling core Reddit-style social features, built to explore concurrency and throughput under load.
+
+### Core Capabilities
+
+- **Features:** post creation, voting, threaded comments, community membership, and feed generation
+- **Concurrency:** thread-safe data structures, synchronization controls, and connection management for parallel request handling
+- **Throughput:** tested up to **1,000 concurrent connections** with sub-50 ms response times on benchmarked operations in a local test environment
+
+**Stack:** `C++` · `PostgreSQL` · `Multithreading` · `Concurrency` · `Rate Limiting`
+
+> 🔎 More projects — Task Manager, LLM Portfolio, Crime Data Analysis, GatorLibrary, SkillArcade, and Semantic Segmentation — on my [**portfolio**](https://sreenivasarajukonduru.github.io/Portfolio/).
+
+---
+
+## 🎓 Education & Certifications
+
+- 🎓 **M.S. Computer Science** — University of Florida (2025)
+- 🎓 **B.E. Computer Science Engineering** — Sathyabama Institute of Science & Technology
+- 📜 **AWS Certified Solutions Architect – Associate**
+- 📜 **Salesforce Platform Developer I**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Sreenivasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=SreenivasaRajuKonduru&show_icons=true&hide_border=true&title_color=4338CA&icon_color=4338CA)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SreenivasaRajuKonduru&layout=compact&hide_border=true&title_color=4338CA)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Let's connect
+
+I'm open to **backend, platform, and full-stack SDE roles** — happy to walk through any project here, especially the **Distributed Intelligence Runtime**.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-4338CA?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sreenivasarajukonduru.github.io/Portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kondurusreenivasaraju)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondurusreenivasaraju1@gmail.com)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12A150,50:6366F1,100:4338CA&height=110&section=footer" />
+
+</div>
